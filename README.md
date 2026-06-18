@@ -1,5 +1,9 @@
 # 📈 Smart Population Growth and Migration Analysis System
 
+## Live Deployment
+
+🔗 https://population-growth-analysis-sejal.streamlit.app
+
 ## 🌟 Project Overview
 
 The Smart Population Growth and Migration Analysis System is a Python-based Data Science project that simulates population growth, migration trends, forecasting, and statistical analysis over time.
@@ -208,3 +212,6 @@ B.Tech (CSE - Artificial Intelligence)
 ## 📜 License
 
 This project is developed for academic and learning purposes.
+
+
+
